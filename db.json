@@ -8,5 +8,5 @@
     {"id": 1, "weight": 25, "height": 20, "length": 22, "width": 2, "from": "townA", "to": "townB"},
     {"id": 2, "weight": 100, "height": "ftl", "length": "ftl", "width": "ftl", "from": "townB", "to": "townC"},
     {"id": 3, "weight": 0.5, "height": 10, "length": 22, "width": 22, "from": "townA", "to": "townB"},
-  ]
+  ],
 }
